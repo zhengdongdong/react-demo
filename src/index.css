@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+div,a,span,ul,ol,li,h2,p,form,input,h1,h3,table,thead,tbody,tr,td,label,textarea,ol{
+  padding: 0px;
+  margin: 0px;
+}
